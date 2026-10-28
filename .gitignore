@@ -4,3 +4,4 @@
 
 # JetBrains / PyCharm IDE configurations
 .idea/
+__pycache__/
